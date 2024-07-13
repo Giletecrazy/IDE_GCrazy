@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDE GCrazy", "IDE GCrazy\IDE GCrazy.csproj", "{BBE7C1FE-30C9-4E63-A2EB-175CE24FC3AB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "IDE Crazy installer", "IDE Crazy installer\IDE Crazy installer.vdproj", "{D37B593E-C2E7-49F5-9FB4-DEBA5BF420A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBE7C1FE-30C9-4E63-A2EB-175CE24FC3AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBE7C1FE-30C9-4E63-A2EB-175CE24FC3AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBE7C1FE-30C9-4E63-A2EB-175CE24FC3AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBE7C1FE-30C9-4E63-A2EB-175CE24FC3AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D37B593E-C2E7-49F5-9FB4-DEBA5BF420A2}.Debug|Any CPU.ActiveCfg = Debug
+		{D37B593E-C2E7-49F5-9FB4-DEBA5BF420A2}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05AD4ABF-11B2-4DF9-9A8B-026D105E185A}
+	EndGlobalSection
+EndGlobal
